@@ -6,5 +6,5 @@
 - JavaScript
 
 ### `index.html`
-This webpage I built through the Devslopes Beginner Full Stack Web Development course on StackSkills.
+This webpage was built through the Devslopes Beginner Full Stack Web Development course on StackSkills.
 - uses `styles.css` for the CSS styling
